@@ -53,4 +53,8 @@ Thank you for contributing to this important project. Your efforts will make sof
 
 ---
 
-If you have any questions or need help, feel free to reach out via GitHub Issues or Discussions.
+**Contact Information**
+
+For any inquiries, feel free to reach out to me:
+
+**Email**: contact@bikilaketema.com
