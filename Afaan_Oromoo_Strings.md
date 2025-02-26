@@ -1,6 +1,6 @@
 # Afaan Oromo Software Translations
 
-This document contains English phrases used in software, along with their translations in Afaan Oromo. Feel free to contribute by adding translations for missing phrases or improving existing ones.
+This document contains English phrases used in software, along with their translations in Afaan Oromo. Feel free to use those strings in your software projects.
 
 ---
 
@@ -8,30 +8,110 @@ This document contains English phrases used in software, along with their transl
 
 | **English Phrase**           | **Afaan Oromo Translation**   |
 |------------------------------|-------------------------------|
-| "Hello, how are you?"         | "Akkam jirtu?"                |
-| "Welcome to the application" | "Appii keessatti baga nagaan dhufte" |
-| "Submit"                      | "Ergaa"                       |
-| "Cancel"                      | "Haa dhaabnu"                 |
-| "Settings"                    | "Hojiiwwan"                   |
-| "Logout"                      | "Bahuu"                       |
-| "Error"                       | "Dogoggora"                   |
-| "Please enter your name"      | "Maqaa kee galchii"           |
-
----
-
-## How to Contribute
-
-1. **Browse Existing Phrases**: Look through the English phrases listed in the table above.
-2. **Submit a Translation**: 
-   - If you know the Afaan Oromo translation, add it next to the corresponding English phrase.
-   - If a phrase is missing, add a new row with the English phrase and your translation.
-
-### Steps for Adding a Translation:
-
-1. **Fork** this repository.
-2. Edit the **translations.md** file with the new phrase and its translation.
-3. **Commit** your changes.
-4. Create a **Pull Request** to add your translations to the main repository.
+| "Hello, how are you?"         |                               |
+| "Welcome to the application" |                               |
+| "Submit"                      |                               |
+| "Cancel"                      |                               |
+| "Settings"                    |                               |
+| "Logout"                      |                               |
+| "Error"                       |                               |
+| "Please enter your name"      |                               |
+| "Account"                     |                               |
+| "Activate"                    |                               |
+| "Add"                         |                               |
+| "Apply"                       |                               |
+| "Change"                      |                               |
+| "Check"                       |                               |
+| "Choose"                      |                               |
+| "Clear"                       |                               |
+| "Close"                       |                               |
+| "Confirm"                     |                               |
+| "Connect"                     |                               |
+| "Create"                      |                               |
+| "Dashboard"                   |                               |
+| "Data"                        |                               |
+| "Delete"                      |                               |
+| "Download"                    |                               |
+| "Edit"                        |                               |
+| "Exit"                        |                               |
+| "Help"                        |                               |
+| "Hide"                        |                               |
+| "Home"                        |                               |
+| "Input"                       |                               |
+| "Install"                     |                               |
+| "Language"                    |                               |
+| "Log In"                      |                               |
+| "Log Out"                     |                               |
+| "Message"                     |                               |
+| "Notifications"               |                               |
+| "Password"                    |                               |
+| "Profile"                     |                               |
+| "Register"                    |                               |
+| "Save"                        |                               |
+| "Search"                      |                               |
+| "Settings"                    |                               |
+| "Sign Up"                     |                               |
+| "Success"                     |                               |
+| "Unsubscribe"                 |                               |
+| "Update"                      |                               |
+| "Upload"                      |                               |
+| "User"                        |                               |
+| "Username"                    |                               |
+| "View"                        |                               |
+| "Welcome"                     |                               |
+| "Warning"                     |                               |
+| "Yes"                         |                               |
+| "No"                          |                               |
+| "Retry"                       |                               |
+| "Terms and Conditions"        |                               |
+| "Privacy Policy"              |                               |
+| "Feedback"                    |                               |
+| "Contact"                     |                               |
+| "About"                       |                               |
+| "FAQ"                         |                               |
+| "Logout"                      |                               |
+| "Join"                        |                               |
+| "Send"                        |                               |
+| "Search"                      |                               |
+| "Contact Support"             |                               |
+| "Terms of Service"            |                               |
+| "Reset"                       |                               |
+| "Proceed"                     |                               |
+| "Go"                          |                               |
+| "Begin"                       |                               |
+| "Previous"                    |                               |
+| "Next"                        |                               |
+| "Finish"                      |                               |
+| "Start"                       |                               |
+| "All"                         |                               |
+| "Active"                      |                               |
+| "Inactive"                    |                               |
+| "Enable"                      |                               |
+| "Disable"                     |                               |
+| "Maximum"                     |                               |
+| "Minimum"                     |                               |
+| "Edit Profile"                |                               |
+| "Change Password"             |                               |
+| "Location"                    |                               |
+| "Show"                        |                               |
+| "Hide"                        |                               |
+| "Set"                         |                               |
+| "View All"                    |                               |
+| "Reset Password"              |                               |
+| "Confirm Password"            |                               |
+| "Send Request"                |                               |
+| "Refresh"                     |                               |
+| "New"                         |                               |
+| "Error Message"               |                               |
+| "Loading"                     |                               |
+| "Home Page"                   |                               |
+| "Dashboard"                   |                               |
+| "Update Profile"              |                               |
+| "Notifications Settings"      |                               |
+| "Logout Successfully"         |                               |
+| "Account Settings"            |                               |
+| "Privacy Settings"            |                               |
+| "Terms & Conditions"          |                               |
 
 ---
 
