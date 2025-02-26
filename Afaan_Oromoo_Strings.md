@@ -12,7 +12,7 @@ This document contains English phrases used in software, along with their transl
 | "Welcome to the application" |                               |
 | "Submit"                      |                               |
 | "Cancel"                      |                               |
-| "Settings"                    |                               |
+| "Settings"                    |     "Sirreeffamoota"                          |
 | "Logout"                      |                               |
 | "Error"                       |                               |
 | "Please enter your name"      |                               |
