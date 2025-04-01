@@ -8,10 +8,10 @@ This document contains English phrases used in software, along with their transl
 
 | **English Phrase**           | **Afaan Oromo Translation**   |
 |------------------------------|-------------------------------|
-| "Hello, how are you?"         |                               |
-| "Welcome to the application" |                               |
-| "Submit"                      |                               |
-| "Cancel"                      |                               |
+| "Hello, how are you?"         |     "Akkam jirtu?"                          |
+| "Welcome to the application" |      "Baga nagaan gara app kanaatti dhuftan"                         |
+| "Submit"                      |    "Galchi"                           |
+| "Cancel"                      |     "Haqi"                          |
 | "Settings"                    |     "Sirreeffamoota"                          |
 | "Logout"                      |                               |
 | "Error"                       |                               |
